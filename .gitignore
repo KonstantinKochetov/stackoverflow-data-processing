@@ -1,0 +1,15 @@
+spark_dir/
+.idea/
+.DS_Store
+archive_scripts/
+archive_playground/
+.ipynb_checkpoints
+main/spark_dir/
+main/pipeline/spark-warehouse/
+main/spark-warehouse/
+spark-warehouse/
+main/pipeline/derby*
+main/pipeline/metastore_db/
+main/pipeline/metastore_db
+main/pipeline/__pycache__/
+main/data/german.stackexchange.com

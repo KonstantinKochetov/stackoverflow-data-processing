@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="1" TagName="regional" Count="114" ExcerptPostId="954" WikiPostId="953" />
+  <row Id="3" TagName="big-list" Count="14" ExcerptPostId="960" WikiPostId="959" />
+  <row Id="4" TagName="etymology" Count="521" ExcerptPostId="435" WikiPostId="434" />
+  <row Id="5" TagName="dictionary" Count="73" ExcerptPostId="703" WikiPostId="702" />
+  <row Id="6" TagName="resources" Count="109" ExcerptPostId="4260" WikiPostId="4259" />
+  <row Id="7" TagName="duden" Count="9" />
+  <row Id="8" TagName="punctuation" Count="100" ExcerptPostId="439" WikiPostId="438" />
+  <row Id="9" TagName="grammar" Count="927" ExcerptPostId="432" WikiPostId="431" />
+  <row Id="12" TagName="salutation" Count="55" ExcerptPostId="4399" WikiPostId="4398" />
+  <row Id="14" TagName="letter" Count="50" ExcerptPostId="8679" WikiPostId="8678" />
+  <row Id="15" TagName="slang" Count="71" ExcerptPostId="1086" WikiPostId="1085" />
+  <row Id="17" TagName="single-word-request" Count="425" ExcerptPostId="430" WikiPostId="429" />
+  <row Id="18" TagName="latin" Count="18" ExcerptPostId="22710" WikiPostId="22709" />
+  <row Id="19" TagName="gender" Count="213" ExcerptPostId="956" WikiPostId="955" />
+  <row Id="20" TagName="loanwords" Count="52" ExcerptPostId="187" WikiPostId="186" />
+  <row Id="25" TagName="genitive" Count="142" ExcerptPostId="20591" WikiPostId="20590" />
+  <row Id="27" TagName="differences" Count="926" ExcerptPostId="3257" WikiPostId="3256" />
+  <row Id="30" TagName="history" Count="148" ExcerptPostId="2728" WikiPostId="2727" />
+  <row Id="31" TagName="dialects" Count="163" ExcerptPostId="1853" WikiPostId="1852" />
+  <row Id="32" TagName="swabian" Count="13" ExcerptPostId="6014" WikiPostId="6013" />
+  <row Id="33" TagName="translation" Count="1158" ExcerptPostId="180" WikiPostId="179" />
+  <row Id="34" TagName="reference" Count="21" />
+  <row Id="35" TagName="formality" Count="74" ExcerptPostId="6012" WikiPostId="6011" />
+  <row Id="36" TagName="words" Count="42" ExcerptPostId="5994" WikiPostId="5993" />
+  <row Id="39" TagName="quotes" Count="29" ExcerptPostId="22702" WikiPostId="22701" />
+  <row Id="46" TagName="bavarian" Count="34" ExcerptPostId="1078" WikiPostId="1077" />
+  <row Id="50" TagName="austrian" Count="50" ExcerptPostId="1080" WikiPostId="1079" />
+  <row Id="51" TagName="pronunciation" Count="259" ExcerptPostId="610" WikiPostId="609" />
+  <row Id="56" TagName="personal-pronouns" Count="62" ExcerptPostId="39143" WikiPostId="39142" />
+  <row Id="57" TagName="tenses" Count="96" ExcerptPostId="20907" WikiPostId="20906" />
+  <row Id="58" TagName="perfect-tense" Count="65" />
+  <row Id="61" TagName="usage" Count="456" ExcerptPostId="958" WikiPostId="957" />
+  <row Id="62" TagName="spelling" Count="235" ExcerptPostId="964" WikiPostId="963" />
+  <row Id="64" TagName="comma" Count="92" ExcerptPostId="20899" WikiPostId="20898" />
+  <row Id="65" TagName="terminology" Count="83" ExcerptPostId="22615" WikiPostId="22614" />
+  <row Id="66" TagName="nouns" Count="247" ExcerptPostId="441" WikiPostId="440" />
+  <row Id="69" TagName="meaning" Count="1392" ExcerptPostId="437" WikiPostId="436" />
+  <row Id="70" TagName="word-choice" Count="701" ExcerptPostId="444" WikiPostId="443" />
+  <row Id="71" TagName="articles" Count="189" ExcerptPostId="6008" WikiPostId="6007" />
+  <row Id="72" TagName="grammaticality" Count="196" ExcerptPostId="921" WikiPostId="920" />
+  <row Id="73" TagName="adjectives" Count="299" ExcerptPostId="1510" WikiPostId="1509" />
+  <row Id="74" TagName="adverbs" Count="181" ExcerptPostId="5971" WikiPostId="5970" />
+  <row Id="75" TagName="grammatical-case" Count="382" ExcerptPostId="5998" WikiPostId="5997" />
+  <row Id="76" TagName="prepositions" Count="535" ExcerptPostId="633" WikiPostId="632" />
+  <row Id="77" TagName="word-order" Count="300" ExcerptPostId="6023" WikiPostId="6022" />
+  <row Id="79" TagName="phonetics" Count="35" ExcerptPostId="22675" WikiPostId="22674" />
+  <row Id="81" TagName="blackletter" Count="18" ExcerptPostId="22688" WikiPostId="22687" />
+  <row Id="83" TagName="technical-terminology" Count="70" ExcerptPostId="22617" WikiPostId="22616" />
+  <row Id="91" TagName="writing" Count="31" ExcerptPostId="1084" WikiPostId="1083" />
+  <row Id="94" TagName="learning" Count="139" ExcerptPostId="962" WikiPostId="961" />
+  <row Id="95" TagName="capitalization" Count="86" ExcerptPostId="5035" WikiPostId="5034" />
+  <row Id="96" TagName="diminutive" Count="10" ExcerptPostId="35140" WikiPostId="35139" />
+  <row Id="97" TagName="suffixes" Count="39" ExcerptPostId="21919" WikiPostId="21918" />
+  <row Id="99" TagName="time" Count="93" ExcerptPostId="25491" WikiPostId="25490" />
+  <row Id="102" TagName="expressions" Count="172" ExcerptPostId="5996" WikiPostId="5995" />
+  <row Id="103" TagName="idioms" Count="270" ExcerptPostId="1497" WikiPostId="1496" />
+  <row Id="106" TagName="rhetoric" Count="5" />
+  <row Id="108" TagName="verbs" Count="575" ExcerptPostId="2724" WikiPostId="2723" />
+  <row Id="112" TagName="brand-names" Count="7" />
+  <row Id="113" TagName="colloquial" Count="134" ExcerptPostId="5054" WikiPostId="5053" />
+  <row Id="118" TagName="reformed-orthography" Count="30" ExcerptPostId="9942" WikiPostId="9941" />
+  <row Id="121" TagName="lyrics" Count="39" />
+  <row Id="122" TagName="stress" Count="13" ExcerptPostId="35144" WikiPostId="35143" />
+  <row Id="124" TagName="contractions" Count="13" />
+  <row Id="125" TagName="definite-articles" Count="42" ExcerptPostId="22661" WikiPostId="22660" />
+  <row Id="126" TagName="literature" Count="36" />
+  <row Id="127" TagName="negation" Count="71" />
+  <row Id="128" TagName="german-to-english" Count="374" ExcerptPostId="3255" WikiPostId="3254" />
+  <row Id="129" TagName="style" Count="105" ExcerptPostId="951" WikiPostId="950" />
+  <row Id="132" TagName="book" Count="38" ExcerptPostId="23551" WikiPostId="23550" />
+  <row Id="133" TagName="baby-talk" Count="7" ExcerptPostId="34039" WikiPostId="34038" />
+  <row Id="136" TagName="conjugation" Count="75" ExcerptPostId="8088" WikiPostId="8087" />
+  <row Id="137" TagName="past-participle" Count="53" />
+  <row Id="138" TagName="morphology" Count="21" ExcerptPostId="22504" WikiPostId="22503" />
+  <row Id="140" TagName="rule-of-thumb" Count="8" />
+  <row Id="144" TagName="umlaut" Count="35" ExcerptPostId="22659" WikiPostId="22658" />
+  <row Id="149" TagName="proverbs" Count="36" ExcerptPostId="22663" WikiPostId="22662" />
+  <row Id="150" TagName="proper-noun" Count="27" />
+  <row Id="151" TagName="culture" Count="21" />
+  <row Id="152" TagName="prefixes" Count="92" ExcerptPostId="6010" WikiPostId="6009" />
+  <row Id="153" TagName="abbreviations" Count="83" ExcerptPostId="6006" WikiPostId="6005" />
+  <row Id="157" TagName="political-correctness" Count="20" ExcerptPostId="37954" WikiPostId="37953" />
+  <row Id="158" TagName="clauses" Count="23" />
+  <row Id="159" TagName="phrases" Count="363" ExcerptPostId="3099" WikiPostId="3098" />
+  <row Id="160" TagName="swiss-standard-german" Count="21" ExcerptPostId="3222" WikiPostId="3221" />
+  <row Id="161" TagName="meaning-in-context" Count="456" ExcerptPostId="5969" WikiPostId="5968" />
+  <row Id="162" TagName="numbers" Count="82" ExcerptPostId="18820" WikiPostId="18819" />
+  <row Id="163" TagName="politeness" Count="63" ExcerptPostId="2726" WikiPostId="2725" />
+  <row Id="166" TagName="consonant-sounds" Count="11" />
+  <row Id="167" TagName="anglicism" Count="29" ExcerptPostId="20877" WikiPostId="20876" />
+  <row Id="175" TagName="person-names" Count="57" />
+  <row Id="176" TagName="preterite" Count="22" />
+  <row Id="179" TagName="taboos" Count="4" ExcerptPostId="22768" WikiPostId="22767" />
+  <row Id="180" TagName="list" Count="20" ExcerptPostId="25485" WikiPostId="25484" />
+  <row Id="185" TagName="interjections" Count="16" />
+  <row Id="187" TagName="english-to-german" Count="967" ExcerptPostId="5038" WikiPostId="5037" />
+  <row Id="189" TagName="grammatical-number" Count="149" ExcerptPostId="1120" WikiPostId="1119" />
+  <row Id="190" TagName="comparison" Count="34" />
+  <row Id="192" TagName="sentence-structure" Count="427" ExcerptPostId="20864" WikiPostId="20863" />
+  <row Id="197" TagName="connotation" Count="38" ExcerptPostId="4262" WikiPostId="4261" />
+  <row Id="198" TagName="synonyms" Count="160" ExcerptPostId="5052" WikiPostId="5051" />
+  <row Id="199" TagName="phrase-request" Count="157" ExcerptPostId="6002" WikiPostId="6001" />
+  <row Id="201" TagName="swiss-german" Count="22" ExcerptPostId="3220" WikiPostId="3219" />
+  <row Id="203" TagName="word-usage" Count="996" ExcerptPostId="3104" WikiPostId="3103" />
+  <row Id="205" TagName="interrogatives" Count="30" ExcerptPostId="34034" WikiPostId="34033" />
+  <row Id="206" TagName="conjunctions" Count="135" ExcerptPostId="6004" WikiPostId="6003" />
+  <row Id="213" TagName="handwriting" Count="36" ExcerptPostId="8516" WikiPostId="8515" />
+  <row Id="217" TagName="vowel-length" Count="6" />
+  <row Id="230" TagName="questions" Count="71" ExcerptPostId="11016" WikiPostId="11015" />
+  <row Id="232" TagName="vowels" Count="14" />
+  <row Id="233" TagName="particles" Count="46" />
+  <row Id="238" TagName="valediction" Count="14" ExcerptPostId="23581" WikiPostId="23580" />
+  <row Id="239" TagName="compounds" Count="96" ExcerptPostId="6025" WikiPostId="6024" />
+  <row Id="247" TagName="reflexives" Count="61" ExcerptPostId="21929" WikiPostId="21928" />
+  <row Id="249" TagName="english" Count="27" />
+  <row Id="251" TagName="tools" Count="12" />
+  <row Id="253" TagName="mathematics" Count="44" />
+  <row Id="256" TagName="diacritics" Count="8" ExcerptPostId="20885" WikiPostId="20884" />
+  <row Id="258" TagName="neologism" Count="17" />
+  <row Id="259" TagName="nominalization" Count="37" ExcerptPostId="5892" WikiPostId="5891" />
+  <row Id="260" TagName="software" Count="33" />
+  <row Id="265" TagName="address" Count="9" />
+  <row Id="269" TagName="euphemism" Count="5" ExcerptPostId="21976" WikiPostId="21975" />
+  <row Id="293" TagName="pronouns" Count="214" ExcerptPostId="6018" WikiPostId="6017" />
+  <row Id="298" TagName="dative" Count="199" ExcerptPostId="20589" WikiPostId="20588" />
+  <row Id="303" TagName="jokes" Count="10" />
+  <row Id="310" TagName="declension" Count="131" ExcerptPostId="8086" WikiPostId="8085" />
+  <row Id="318" TagName="possessive" Count="27" ExcerptPostId="35167" WikiPostId="35166" />
+  <row Id="319" TagName="passive" Count="89" ExcerptPostId="20868" WikiPostId="20867" />
+  <row Id="321" TagName="accent" Count="14" />
+  <row Id="322" TagName="yiddish" Count="22" ExcerptPostId="27526" WikiPostId="27525" />
+  <row Id="325" TagName="indirect-speech" Count="27" ExcerptPostId="20883" WikiPostId="20882" />
+  <row Id="331" TagName="adjective-endings" Count="101" ExcerptPostId="28885" WikiPostId="28884" />
+  <row Id="335" TagName="sailor-jargon" Count="3" />
+  <row Id="337" TagName="nomenclature" Count="3" ExcerptPostId="22770" WikiPostId="22769" />
+  <row Id="340" TagName="nuance" Count="17" ExcerptPostId="35142" WikiPostId="35141" />
+  <row Id="342" TagName="vocabulary" Count="160" ExcerptPostId="6027" WikiPostId="6026" />
+  <row Id="343" TagName="imperative" Count="29" ExcerptPostId="28856" WikiPostId="28855" />
+  <row Id="347" TagName="standard-german" Count="111" ExcerptPostId="20875" WikiPostId="20874" />
+  <row Id="352" TagName="telephone-conversation" Count="7" />
+  <row Id="355" TagName="typography" Count="30" ExcerptPostId="21909" WikiPostId="21908" />
+  <row Id="367" TagName="infinitive" Count="96" ExcerptPostId="32162" WikiPostId="32161" />
+  <row Id="375" TagName="insults" Count="14" ExcerptPostId="22667" WikiPostId="22666" />
+  <row Id="388" TagName="poetry" Count="37" />
+  <row Id="396" TagName="kurrent" Count="10" ExcerptPostId="8213" WikiPostId="8212" />
+  <row Id="399" TagName="analogy" Count="3" />
+  <row Id="401" TagName="informal" Count="18" ExcerptPostId="22764" WikiPostId="22763" />
+  <row Id="402" TagName="audio" Count="7" />
+  <row Id="415" TagName="irregular-verb" Count="12" />
+  <row Id="416" TagName="past" Count="33" />
+  <row Id="420" TagName="inflection" Count="47" ExcerptPostId="28879" WikiPostId="28878" />
+  <row Id="422" TagName="apostrophe" Count="11" ExcerptPostId="22708" WikiPostId="22707" />
+  <row Id="424" TagName="participle" Count="25" />
+  <row Id="432" TagName="subjunctive" Count="152" ExcerptPostId="20872" WikiPostId="20871" />
+  <row Id="433" TagName="hyphen" Count="24" ExcerptPostId="22766" WikiPostId="22765" />
+  <row Id="437" TagName="accusative" Count="126" ExcerptPostId="20587" WikiPostId="20586" />
+  <row Id="443" TagName="modal-particles" Count="30" />
+  <row Id="445" TagName="obsolete-words" Count="8" ExcerptPostId="22712" WikiPostId="22711" />
+  <row Id="447" TagName="semantics" Count="32" ExcerptPostId="6429" WikiPostId="6428" />
+  <row Id="449" TagName="mnemonics" Count="8" ExcerptPostId="6460" WikiPostId="6459" />
+  <row Id="458" TagName="oral-communication" Count="5" />
+  <row Id="460" TagName="linking-elements" Count="3" />
+  <row Id="465" TagName="speaking" Count="13" />
+  <row Id="466" TagName="possessive-pronouns" Count="33" ExcerptPostId="32384" WikiPostId="32383" />
+  <row Id="468" TagName="wordplay" Count="8" />
+  <row Id="469" TagName="evolution" Count="9" />
+  <row Id="470" TagName="auxiliary-verbs" Count="19" ExcerptPostId="28883" WikiPostId="28882" />
+  <row Id="473" TagName="sociolinguistics" Count="28" ExcerptPostId="7481" WikiPostId="7480" />
+  <row Id="475" TagName="future" Count="24" ExcerptPostId="35146" WikiPostId="35145" />
+  <row Id="476" TagName="determiners" Count="8" />
+  <row Id="485" TagName="subordinate-clause" Count="95" />
+  <row Id="488" TagName="modal-verbs" Count="105" ExcerptPostId="28881" WikiPostId="28880" />
+  <row Id="491" TagName="relative-clauses" Count="87" ExcerptPostId="28887" WikiPostId="28886" />
+  <row Id="495" TagName="separable-verbs" Count="77" ExcerptPostId="20912" WikiPostId="20911" />
+  <row Id="496" TagName="pluperfect" Count="12" ExcerptPostId="8646" WikiPostId="8645" />
+  <row Id="498" TagName="proficiency-tests" Count="15" ExcerptPostId="8683" WikiPostId="8682" />
+  <row Id="503" TagName="word-classes" Count="13" ExcerptPostId="8748" WikiPostId="8747" />
+  <row Id="506" TagName="verb-usage" Count="124" ExcerptPostId="32160" WikiPostId="32159" />
+  <row Id="507" TagName="teen-slang" Count="10" />
+  <row Id="509" TagName="verb-choice" Count="56" />
+  <row Id="512" TagName="eszett" Count="27" ExcerptPostId="9934" WikiPostId="9933" />
+  <row Id="513" TagName="etiquette" Count="6" />
+  <row Id="518" TagName="online-resources" Count="34" />
+  <row Id="524" TagName="sein-or-haben" Count="6" ExcerptPostId="12185" WikiPostId="12184" />
+</tags>

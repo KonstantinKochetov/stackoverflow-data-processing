@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<badges>
+  <row Id="1" UserId="1" Name="Editor" Date="2011-05-24T19:15:31.703" Class="3" TagBased="False" />
+  <row Id="2" UserId="2" Name="Critic" Date="2011-05-24T19:15:31.703" Class="3" TagBased="False" />
+  <row Id="3" UserId="4" Name="Editor" Date="2011-05-24T19:30:31.367" Class="3" TagBased="False" />
+  <row Id="4" UserId="8" Name="Critic" Date="2011-05-24T19:30:31.473" Class="3" TagBased="False" />
+  <row Id="5" UserId="6" Name="Editor" Date="2011-05-24T19:30:31.507" Class="3" TagBased="False" />
+  <row Id="6" UserId="7" Name="Autobiographer" Date="2011-05-24T19:30:31.507" Class="3" TagBased="False" />
+  <row Id="7" UserId="8" Name="Autobiographer" Date="2011-05-24T19:30:31.520" Class="3" TagBased="False" />
+  <row Id="8" UserId="9" Name="Autobiographer" Date="2011-05-24T19:30:31.520" Class="3" TagBased="False" />
+  <row Id="9" UserId="1" Name="Critic" Date="2011-05-24T19:30:31.520" Class="3" TagBased="False" />
+  <row Id="10" UserId="4" Name="Critic" Date="2011-05-24T19:30:31.520" Class="3" TagBased="False" />
+  <row Id="11" UserId="8" Name="Editor" Date="2018-12-20T19:30:31.520" Class="3" TagBased="False" />
+</badges>
